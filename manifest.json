@@ -1,0 +1,20 @@
+{
+    "name": "SLRT-TANJUNGBALAI",
+    "start_url": "/index.php",
+    "display": "standalone",
+    "theme_color": "#f8fcfa",
+    "background_color": "#f8fcfa",
+    "icons": [
+      {
+        "src": "icons/slrt.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/slrt.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+      }
+    ]
+  }
